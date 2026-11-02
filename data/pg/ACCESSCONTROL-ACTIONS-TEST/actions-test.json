@@ -31310,6 +31310,17 @@
       "code": "null",
       "path": "",
       "navigationURL": ""
+    },
+    {
+      "id": 4756,
+      "name": "Search Plan Scrutiny",
+      "url": "/edcr/rest/dcr/edcrdetails",
+      "displayName": "Search Building Plan Scrutiny",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "EDCR",
+      "code": "null",
+      "path": ""
     }
   ]
 }
