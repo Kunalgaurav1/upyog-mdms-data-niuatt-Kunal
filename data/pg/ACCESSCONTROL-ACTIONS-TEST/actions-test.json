@@ -31349,6 +31349,34 @@
       "serviceCode": "EDCR",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 4812,
+      "name": "Verify Aadhaar OTP and Resolve Citizen Profile",
+      "url": "/user/profile/aadhaar/_verify",
+      "displayName": "Verify Aadhaar Citizen Profile",
+      "orderNumber": 0,
+      "queryParams": "",
+      "parentModule": "User",
+      "enabled": true,
+      "serviceCode": "egov-user",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    },
+    {
+      "id": 4813,
+      "name": "Verify Logged-in Citizen Profile with Aadhaar",
+      "url": "/user/profile/aadhaar/_verifyProfile",
+      "displayName": "Verify Logged-in Citizen Profile",
+      "orderNumber": 0,
+      "queryParams": "",
+      "parentModule": "User",
+      "enabled": true,
+      "serviceCode": "egov-user",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
     }
   ]
 }
