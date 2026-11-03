@@ -31088,6 +31088,34 @@
       "navigationURL": ""
     },
     {
+      "id": 4810,
+      "name": "Send OTP to Head of Family",
+      "url": "/family/v1/family/_sendOtp",
+      "displayName": "Send Family OTP",
+      "orderNumber": 0,
+      "queryParams": "",
+      "parentModule": "Family",
+      "enabled": true,
+      "serviceCode": "upyog-family-service",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    },
+    {
+      "id": 4811,
+      "name": "Verify Head of Family OTP",
+      "url": "/family/v1/family/_verifyOtp",
+      "displayName": "Verify Family OTP",
+      "orderNumber": 0,
+      "queryParams": "",
+      "parentModule": "Family",
+      "enabled": true,
+      "serviceCode": "upyog-family-service",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    },
+    {
       "id": 4740,
       "name": "Create Citizen Address",
       "url": "/user/address/_create",
