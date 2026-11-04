@@ -31088,6 +31088,34 @@
       "navigationURL": ""
     },
     {
+      "id": 4810,
+      "name": "Send OTP to Head of Family",
+      "url": "/family/v1/family/_sendOtp",
+      "displayName": "Send Family OTP",
+      "orderNumber": 0,
+      "queryParams": "",
+      "parentModule": "Family",
+      "enabled": true,
+      "serviceCode": "upyog-family-service",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    },
+    {
+      "id": 4811,
+      "name": "Verify Head of Family OTP",
+      "url": "/family/v1/family/_verifyOtp",
+      "displayName": "Verify Family OTP",
+      "orderNumber": 0,
+      "queryParams": "",
+      "parentModule": "Family",
+      "enabled": true,
+      "serviceCode": "upyog-family-service",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    },
+    {
       "id": 4740,
       "name": "Create Citizen Address",
       "url": "/user/address/_create",
@@ -31321,6 +31349,34 @@
       "serviceCode": "EDCR",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 4812,
+      "name": "Verify Aadhaar OTP and Resolve Citizen Profile",
+      "url": "/user/profile/aadhaar/_verify",
+      "displayName": "Verify Aadhaar Citizen Profile",
+      "orderNumber": 0,
+      "queryParams": "",
+      "parentModule": "User",
+      "enabled": true,
+      "serviceCode": "egov-user",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    },
+    {
+      "id": 4813,
+      "name": "Verify Logged-in Citizen Profile with Aadhaar",
+      "url": "/user/profile/aadhaar/_verifyProfile",
+      "displayName": "Verify Logged-in Citizen Profile",
+      "orderNumber": 0,
+      "queryParams": "",
+      "parentModule": "User",
+      "enabled": true,
+      "serviceCode": "egov-user",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
     }
   ]
 }
