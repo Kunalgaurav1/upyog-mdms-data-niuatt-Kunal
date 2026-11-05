@@ -39267,12 +39267,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 4727,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "CITIZEN",
       "actionid": 4728,
       "actioncode": "",
@@ -39333,19 +39327,7 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 4737,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "CITIZEN",
-      "actionid": 4738,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EMPLOYEE",
       "actionid": 4738,
       "actioncode": "",
       "tenantId": "pg"
@@ -39363,19 +39345,7 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 4810,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "CITIZEN",
-      "actionid": 4811,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EMPLOYEE",
       "actionid": 4811,
       "actioncode": "",
       "tenantId": "pg"
@@ -39394,12 +39364,6 @@
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": 4742,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EMPLOYEE",
       "actionid": 4742,
       "actioncode": "",
       "tenantId": "pg"
@@ -39429,12 +39393,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 4746,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "CITIZEN",
       "actionid": 4747,
       "actioncode": "",
@@ -39454,12 +39412,6 @@
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": 4750,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EMPLOYEE",
       "actionid": 4750,
       "actioncode": "",
       "tenantId": "pg"
@@ -39567,19 +39519,7 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 4812,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "CITIZEN",
-      "actionid": 4813,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EMPLOYEE",
       "actionid": 4813,
       "actioncode": "",
       "tenantId": "pg"
