@@ -3,12 +3,6 @@
     "moduleName": "common-masters",
     "FamilyRelationship": [
         {
-            "code": "HEAD",
-            "name": "Head of Family",
-            "description": "Designated primary member representing the household unit",
-            "active": true
-        },
-        {
             "code": "SPOUSE",
             "name": "Spouse",
             "description": "Husband or wife of the Head of Family",
