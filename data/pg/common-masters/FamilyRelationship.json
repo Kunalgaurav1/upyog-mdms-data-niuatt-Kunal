@@ -3,6 +3,12 @@
     "moduleName": "common-masters",
     "FamilyRelationship": [
         {
+            "code": "SELF",
+            "name": "Self",
+            "description": "Self",
+            "active": true
+        },
+        {
             "code": "HEAD",
             "name": "Head of Family",
             "description": "Designated primary member representing the household unit (Deprecated: HoF is now tracked via family aggregate headUserUuid and member isHead flag; retained as active=false for historical label resolution)",
